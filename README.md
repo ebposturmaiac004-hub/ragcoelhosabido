@@ -2,6 +2,7 @@
 
 > Assistente conversacional baseado em IA para consulta semântica ao Regulamento do IBS (Resolução CGIBS Nº 6/2026).  
 > Projeto acadêmico desenvolvido com Python, Google Gemini, Supabase e Streamlit.
+> Desenvolvido por prof. Rômulo Negi Camargo. Autorizado uso para alunos da EBPOs.
 
 ---
 
